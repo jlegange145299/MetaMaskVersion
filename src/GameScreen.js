@@ -33,7 +33,7 @@ class GameScreen extends Component {
   }
 
   preload() {
-    this.load.image('background', './phaser/Background.png');
+    this.load.image('background', './phaser/Background3.png');
     //this.load.image('balloon', './phaser/Balloon Pop.png');
     this.load.spritesheet('balloon',
       './phaser/Balloon Pop.png',
